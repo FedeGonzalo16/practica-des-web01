@@ -1,0 +1,28 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1, h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 650;
+    font-size: 1.5em;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 0 5px;
+}
+
+.imgs_result .img-res {
+    width: 400px;
+    height: 400px;
+}
