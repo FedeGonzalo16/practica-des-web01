@@ -3,6 +3,7 @@ body{
     margin: 0;
     display: inline-block;
     overflow-x: hidden;
+    padding: 0%;
 }
 
 main {
@@ -29,7 +30,7 @@ nav .container-nav {
 
 
 figure {
-    margin: 0 !important;
+    margin: 0 !important; 
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
